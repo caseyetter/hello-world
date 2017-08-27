@@ -1,3 +1,2 @@
 print this is thy kewl file.exe;
-
-#Hippidee Doo Dah
+print hello mars
